@@ -23,4 +23,4 @@ ARM9嵌入式实验
  ![icf](http://img3.douban.com/view/photo/large/public/p2239694340.jpg)
 
 - icf文件路径:  
-  ![icf_path](http://www.douban.com/photos/photo/2239694341/large#)   
+  ![icf_path](http://img3.douban.com/view/photo/large/public/p2239694341.jpg)   
