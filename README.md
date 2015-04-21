@@ -28,10 +28,9 @@ ARM9嵌入式实验
 - 点击icf路径栏下的**Edit**项 选择第三个**Stack/Heap Size**选项卡 将最后**Heap**项参数改为0xf0000  
   ![stack](http://img3.douban.com/view/photo/large/public/p2239700030.jpg)
 
-
 - 将开发板LCD右下侧的开关推至off   
   ![off](http://img5.douban.com/view/photo/photo/public/p2239702549.jpg)
 
-- 点击IAR左侧菜单栏中**make** 和**Download and Debug**按钮编译和刷写   
+- 点击IAR左侧菜单栏中**make** 和**Download and Debug**按钮编译和刷写可执行文件至开发板     
   ![make](http://img3.douban.com/view/photo/large/public/p2239702970.jpg)  
   ![b&b](http://img3.douban.com/view/photo/large/public/p2239702974.jpg)   
